@@ -1,0 +1,23 @@
+.parent{
+width: 708px ;
+box-sizing:5px 5px 20px #888 ;
+
+}
+.parent.price{
+background: #6E2594;
+padding: 10px;
+display: inline-block;
+border-top-right-radius: 15px;
+border-bottom-right-radius: 15px;
+margin-top: 10px;
+
+}
+.parent.img{
+text-align: center;
+
+}
+.btn-group{
+
+
+    
+}
